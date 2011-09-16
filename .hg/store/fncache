@@ -1,0 +1,17 @@
+data/browser.ui.i
+data/core.py.i
+data/GUI/__init__.py.i
+data/GUI/__init__.pyc.i
+data/GUI/main.py.i
+data/GUI/main.pyc.i
+data/GUI/main.ui.i
+data/baseBrowser.py.i
+data/baseBrowser.pyc.i
+data/browser.py.i
+data/browser.pyc.i
+data/config.py.i
+data/config.pyc.i
+data/run.py.i
+data/AUTHORS.txt.i
+data/GUI/logo.png.i
+data/README.txt.i
